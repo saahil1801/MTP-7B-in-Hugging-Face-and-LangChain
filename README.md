@@ -6,7 +6,7 @@ This repository demonstrates how to use the MTP-7B model from Hugging Face in co
 
 You can install the required packages by running the following command:
 
-# pip install -qU transformers accelerate einops langchain wikipedia xformers
+### pip install -qU transformers accelerate einops langchain wikipedia xformers
 
 ## Usage
 
