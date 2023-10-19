@@ -2,6 +2,9 @@
 
 This repository demonstrates how to use the MTP-7B model from Hugging Face in combination with LangChain for text generation.
 
+![6454669e10b0b051b6a393a6_Frame 1 (12)](https://github.com/saahil1801/MTP-7B-in-Hugging-Face-and-LangChain/assets/84408557/975a586d-c40e-4169-93b8-4a1e7724bcff)
+
+
 ## Installation
 
 You can install the required packages by running the following command:
