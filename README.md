@@ -22,7 +22,7 @@ Use LangChain for a more specific text generation task.
 
 Contributions are welcome! If you find any issues or want to improve this code, please open a pull request or issue on GitHub.
 
-##Credits
+## Credits
 
 Hugging Face Transformers
 
